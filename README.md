@@ -22,7 +22,7 @@ and offer appointment based shopping, and customers can make an appointment and 
     - Customers can delete appointments
     - Bussinesses can delete time slots if occupancy needs change
 
-![Database schema](/assets/images/itp405_final_db_diagram)
+![Database schema](./assets/images/itp405_final_db_diagram)
 
 ### 4. Additional Features
  - Comment section:
