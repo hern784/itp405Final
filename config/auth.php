@@ -70,6 +70,15 @@ return [
             'driver' => 'eloquent',
             'model' => App\Models\User::class,
         ],
+        // ADDED
+        'shoppers' => [
+            'driver' => 'eloquent',
+            'model' => App\Models\Shopper::class
+        ],
+        'business' => [
+            'driver' => 'eloquent',
+            'model' => App\Models\Business::class
+        ],
 
         // 'users' => [
         //     'driver' => 'database',
